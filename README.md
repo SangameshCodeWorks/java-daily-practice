@@ -13,6 +13,7 @@
 | Day | Topic | File |
 |-----|-------|------|
 | Day 1 | Hello World | [d1helloworld.java](./Day01/) |
+| Day 2 | Variables & Scanner Input | [d2variables.java](./Day02/) |
 
 ---
 
